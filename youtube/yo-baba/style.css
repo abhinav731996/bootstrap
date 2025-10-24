@@ -1,0 +1,12 @@
+.container-fluid{
+    border: 2px solid firebrick;
+}
+.container{
+    border: 2px solid cadetblue;
+}
+.row{
+    border: 2px solid red;
+}
+.col{
+    border: 2px solid black;
+}
