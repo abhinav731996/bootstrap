@@ -1,0 +1,6 @@
+.faqs .accordion-button{
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity));
+}
+.faqs .accordion-item{
+    --bs-accordion-border-width: 0;
+}
